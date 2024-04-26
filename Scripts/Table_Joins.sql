@@ -1,3 +1,7 @@
+USE LandonHotel
+GO
+
+
 SELECT * FROM Guest;
 SELECT * FROM Rooms;
 SELECT * FROM RoomReservations;

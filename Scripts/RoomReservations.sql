@@ -1,3 +1,7 @@
+USE LandonHotel
+GO
+
+
 CREATE TABLE RoomReservations(
 ReservationID int IDENTITY (1,1) NOT NULL,
 CheckInDate Date NOT NULL,

@@ -1,3 +1,7 @@
+USE LandonHotel
+GO
+
+
 CREATE TABLE Rooms (
 	RoomID int IDENTITY(1, 1) NOT NULL,
 	RoomNumber char(3) NOT NULL,
